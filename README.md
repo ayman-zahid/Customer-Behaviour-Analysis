@@ -288,21 +288,27 @@ The second page was developed independently and goes beyond what most entry-leve
 ## Business Recommendations
 
 **1. Rebuild the subscription programme around the loyal majority.**
+
 The data makes clear that the loyalty problem is not retention, it is conversion. The company already has 3,116 loyal customers; it just has not given them a compelling reason to subscribe. The programme needs tangible benefits tied to what these customers actually do: priority access to new season releases, complimentary Standard Shipping (where subscribers demonstrably spend more), or a points system that compounds with purchase history. The target conversion audience is the 2,518 repeat buyers who have never subscribed — a warm, high-frequency base that no cold acquisition campaign can replicate.
 
 **2. Audit discount effectiveness by category before scaling promotional spend.**
+
 In Clothing, Accessories, and Outerwear, discounted transactions are associated with lower average spend — suggesting discounts in these categories are reaching price-sensitive buyers rather than converting hesitant high-value ones. Footwear runs counter to this pattern, where discounted buyers spend more, warranting closer investigation into which specific products are driving that difference. A structured review of discount allocation by category, followed by targeted A/B testing, would determine whether current promotional spend is generating genuine incremental revenue or simply subsidising purchases that would have occurred regardless.
 
 **3. Invest marketing spend behind high-rated, under-purchased products.**
+
 Gloves, Sandals, and Boots hold the top three average review ratings in the entire catalogue yet are not among the top-selling products in their respective categories. High satisfaction with low volume is a product marketing problem, not a product quality problem. These items deserve increased placement in campaign creative, particularly in the seasons where they are most relevant — Sandals in Spring, Boots and Gloves in Fall and Winter (based on conventional retail seasonality rather than this dataset, which shows near-uniform category distribution across seasons). Directing customers toward products they are most likely to rate highly improves review scores, repeat purchase intent, and word-of-mouth simultaneously.
 
 **4. Target bi-weekly buyers as the highest-priority segment for subscription conversion and upsell.**
+
 Bi-weekly buyers record the highest average spend across all frequency groups at $60.69, and their purchase tempo, regular but not habitual, suggests considered, intentional buying behaviour rather than routine low-basket shopping. This makes them the segment most likely to respond to a subscription offer with tangible benefits. Combined with the fact that 72% of repeat buyers have never subscribed, a conversion campaign targeting specifically bi-weekly frequency customers represents the most commercially efficient use of retention marketing spend.
 
 **5. Treat the female customer gap as two separate problems, not one.**
+
 First, the spend gap: female customers generate $75,191 compared to $157,890 from male customers, but with only 1,248 female customers versus 2,652 male, the gap may reflect an acquisition imbalance rather than a behavioural one. Second, and more critically: there are no female subscribers recorded in the dataset at all. Every one of the 1,053 subscribers is male. Whether this reflects a data quality issue or a genuine product-market misalignment, it means the subscription programme is currently serving only half the customer population by gender. Any subscription growth strategy that does not explicitly address female customer conversion is structurally capped from the outset.
 
 **6. Protect margin on top-discounted products in high-volume categories.**
+
 Hats, Sneakers, and Coats see discounts applied at nearly half of all purchases. These are not low-volume niche items, they sit within the most-purchased categories. A 50% discount rate on Hats, for instance, means the company is effectively pricing at a promotional rate as the new baseline. Gradually testing discount frequency reductions on these specific items, while monitoring volume sensitivity, would help establish whether the current discount rate is genuinely driving demand or has simply become the expected price.
 
 ---
