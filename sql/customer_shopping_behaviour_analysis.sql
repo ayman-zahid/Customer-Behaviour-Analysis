@@ -89,7 +89,7 @@ WHERE item_rank <= 3;
 /* RESULT:
    - Most purchased under 'Accessories': Jewelry (171), Sunglasses (161), Belts (161)
    - Most purchased under 'Clothing': Blouse (171), Pants (171), Shirts (169)
-   - Most purchased under 'Footwear': Sandals (160), Shoes (150), sneakers (145)
+   - Most purchased under 'Footwear': Sandals (160), Shoes (150), Sneakers (145)
    - Most purchased under 'Outerwear': Jackets (163), Coats (161) */
    
 -- Likelihood of customers who are repeat buyers (more than 5 previous purchases) being subscribers as well
